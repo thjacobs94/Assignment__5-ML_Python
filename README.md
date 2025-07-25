@@ -196,7 +196,7 @@ print(classification_report(Y_validation, predictions))
 
 ## Project Structure
 
-Assignment4-Stats-Scripts
+Assignment__5-ML_Python
     |_______ assignment5_ml_python.ipynb
     |_______ iris.csv
     |_______ environment5py.yml   
