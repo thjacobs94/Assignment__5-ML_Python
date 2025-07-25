@@ -1,5 +1,5 @@
 # Assignment 5- Machine Learning in Python
-### Explores basic machine learning using [scikit-learn/caret/etc.], including data preparation, model training, and evaluation. 
+### Explores basic machine learning using [scikit-learn/etc.], including data preparation, model training, and evaluation. 
  
 ## Project Description
 
