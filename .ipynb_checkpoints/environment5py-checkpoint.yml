@@ -1,0 +1,15 @@
+name: env-5py
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - ipykernel
+  - matplotlib
+  - numpy
+  - statsmodels
+  - seaborn
+  - scipy
+  - pandas
