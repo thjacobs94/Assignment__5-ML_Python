@@ -47,9 +47,9 @@ dependencies:
   - pandas
 
 3) Set up your environment with the following command lines to activate your .yml
-cd Assignment4-Stats-Scripts (or whichever working directory you are in)
-conda env create -f environment.yml
-conda activate stats-env
+cd Assignment__5_ml_pyton (or whichever working directory you are in)
+conda env create -f environment5py.yml
+conda activate env-5py
 jupyter lab
 
 4) Create a folder labelled notebook and within create an assignment5_ml_python.ipynb file
