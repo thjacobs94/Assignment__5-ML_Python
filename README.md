@@ -28,15 +28,6 @@ This project is adapted from the Machine Learning Mastery group, the tutorial is
 - Clone the repository to your local machine via the following command line "git clone https://github.com/your-username/your-repot-title.git
 
 2. Create Files and Add the files to your repository
-- Created a .gitignore in the command line using a nano or vi command-- this file will provide a list of files/folders that Git should ignore. We will create a .gitignore with the following files to ignore. Similar to Assignment 4
-  __pycache__/ 
-*.pyc 
-.ipynb_checkpoints/ 
-.env/ 
-.venv/ 
-data/ 
-*.csv 
-*NOTE*: upload this file to your git repository
 
 - Created a environment5py.yml file for conda environments only (as this was the only type in this project) with the following channels and dependencies named "stats-env"
 name: env-5py
